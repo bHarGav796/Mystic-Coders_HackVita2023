@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "988218383940",
+    "project_id": "attendancemark-10d31",
+    "storage_bucket": "attendancemark-10d31.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:988218383940:android:88116bcb9e2390a5062611",
+        "android_client_info": {
+          "package_name": "com.example.loginpage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "988218383940-aifmqgqjphk476qg4s6g2bbjegcmqujq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC07d7EODj3bacx4JDnIhrrKVBsYRyAev0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "988218383940-aifmqgqjphk476qg4s6g2bbjegcmqujq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
